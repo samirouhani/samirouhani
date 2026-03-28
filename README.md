@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Sami!</h1>
+<h3 align="center"> Mathematical Engineering Student | Frontend Developer | Passion for Creativity & Technology </h3>
 
-<!--
-**samirouhani/samirouhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+* 📚 A 3rd-year Mathematical Engineering student in Yıldız Technicaly University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Currently developing my frontend development skills and building projects with tools such as React
+
+* 🧑‍💻 Planning to become a full-stack developer in the near future
+
+## Skill Set 🛠️
+
+| Tech Stack |
+|:---:|
+|HTML   CSS   JavaScript   React|
+|C   Mocha   ThreeJS|
