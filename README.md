@@ -3,7 +3,7 @@
 
 ## About me
 
-- 📚 A 3rd-year Mathematical Engineering student in Yıldız Technical University
+- 📚 A 3rd-year Mathematical Engineering student at Yıldız Technical University
 
 - 💻 Currently developing my frontend development skills and building projects with tools such as React
 
@@ -29,7 +29,7 @@
     </a>
 </p>
 
-## Skill Set 🛠️
+## Tech Stack 🛠️
 
 <p>
     <img alt="HTML" src="./Images/icons8-html.svg" height="48" />
